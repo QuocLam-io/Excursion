@@ -10,3 +10,12 @@ body {
     background-color: black;
     color: white;
 }
+
+a {
+    color: Aquamarine;
+    font-size: 16px;
+}
+
+a:visited {
+    color: aquamarine;
+}
